@@ -1,3 +1,3 @@
 # Panthers Kata Repository
-Kata examples for practising and learning javat 
+Kata examples for practising and learning java 
 
