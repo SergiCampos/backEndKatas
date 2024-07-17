@@ -11,6 +11,7 @@
     <modules>
         <module>SuperMarketKata/Exercise_1</module>
         <module>SuperMarketKata/Exercise_2</module>
+        <module>SuperMarketKata/Exercise_3</module>
     </modules>
 
     <properties>
